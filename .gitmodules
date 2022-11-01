@@ -1,0 +1,3 @@
+[submodule "RustProjectsForLearning"]
+	path = RustProjectsForLearning
+	url = https://github.com/amit-a8/RustProjectsForLearning.git
